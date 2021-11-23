@@ -19,6 +19,7 @@ ue:
   opc: "6f1bf53d624b3a43af6592854e2444c7"
   amf: "8000"
   sqn: "0000000"
+  dnn: "internet"
   hplmn:
     mcc: "208"
     mnc: "93"
@@ -28,4 +29,3 @@ ue:
 amfif:
   ip: "amf.free5gc.org"
   port: 38412
-  name: "free5gc"
